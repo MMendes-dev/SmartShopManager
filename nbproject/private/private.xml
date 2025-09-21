@@ -6,8 +6,12 @@
             <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/view/ProdutosFrame.java</file>
             <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/view/MainMenuFrame.java</file>
             <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/view/ClientesFrame.java</file>
+            <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/dao/DBConnection.java</file>
+            <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/dao/ProdutoDAO.java</file>
             <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/app/Main.java</file>
+            <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/dao/UsuarioDAO.java</file>
             <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/view/LoginFrame.java</file>
+            <file>file:/C:/Users/Mateu/OneDrive/Documentos/NetBeansProjects/SmartShopManager/src/dao/ClienteDAO.java</file>
         </group>
     </open-files>
 </project-private>
